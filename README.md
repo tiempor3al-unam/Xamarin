@@ -17,3 +17,22 @@ b) Después tendrás que crear una cuenta en Github (http://github.com). Github 
 Las actividades de programación están en la siguiente dirección web de Github https://github.com/tiempor3al/Xamarin. Ahí también encontraras más información acerca de la configuración de Xamarin Studio con tu cuenta de Github.
 
 Usaremos el libro de de referencia “Creating Mobile Apps with Xamarin.Forms” el cual puedes obtener de http://developer.xamarin.com/guides/cross-platform/xamarin-forms/creating-mobile-apps-xamarin-forms/
+
+
+#Xamarin-English
+
+Welcome to the subject of Mobile Device Programming
+
+We will use the Xamarín platform (http://www.xamarin.com) to develop native mobile applications. As you know, one of the problems to develop mobile applications is the diversity of existing programming environments: The most popular mobile operating system, Android, uses the Java platform ( http://developer.android.com/index.html ). The following operating system, IOS ( https://developer.apple.com/ ), uses a variant of the c language, Objective-c, and more recently Swift. On the other hand Windows Phone, uses C # ( http://dev.windows.com/en-us)…
+
+Xamarin offers a tool known as Xamarin Forms that allows you to develop for Android, IOS and Windows Phone with the same code base in C #. If you don't know how to program in C #, don't worry, I've made sure that the examples are illustrative and easy to program.
+
+It is also possible to develop multiplatform applications with tools such as Phonegap ( http://phonegap.com/ ), in fact there are a multitude of tools that allow multiplatform development with the same base code. Xamarin was chosen for its ease of use, its low learning curve, and because it is free for students.
+
+a) The first thing you will have to do is obtain the Xamarin Studio software at the following web address: https://xamarin.com/student Try to use your email address linked to the UNAM
+
+b) Then you will have to create an account on Github ( http://github.com ). Github is a project repository that we will use to upload your activities.
+
+The programming activities are at the following Github web address https://github.com/tiempor3al/Xamarin . There you will also find more information about configuring Xamarin Studio with your Github account.
+
+We will use the reference book “Creating Mobile Apps with Xamarin.Forms” which you can obtain from http://developer.xamarin.com/guides/cross-platform/xamarin-forms/creating-mobile-apps-xamarin-forms/
